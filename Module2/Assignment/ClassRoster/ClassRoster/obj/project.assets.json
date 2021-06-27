@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alec.engebretson\\Desktop\\IST311\\IST311OnlineFullRepo\\Module1\\Assignment\\ClassRoster\\ClassRoster\\ClassRoster.csproj",
+      "projectUniqueName": "C:\\Users\\alec.engebretson\\Desktop\\IST311\\IST311OnlineFullRepo\\Module2\\Assignment\\ClassRoster\\ClassRoster\\ClassRoster.csproj",
       "projectName": "ClassRoster",
-      "projectPath": "C:\\Users\\alec.engebretson\\Desktop\\IST311\\IST311OnlineFullRepo\\Module1\\Assignment\\ClassRoster\\ClassRoster\\ClassRoster.csproj",
+      "projectPath": "C:\\Users\\alec.engebretson\\Desktop\\IST311\\IST311OnlineFullRepo\\Module2\\Assignment\\ClassRoster\\ClassRoster\\ClassRoster.csproj",
       "packagesPath": "C:\\Users\\alec.engebretson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alec.engebretson\\Desktop\\IST311\\IST311OnlineFullRepo\\Module1\\Assignment\\ClassRoster\\ClassRoster\\obj\\",
+      "outputPath": "C:\\Users\\alec.engebretson\\Desktop\\IST311\\IST311OnlineFullRepo\\Module2\\Assignment\\ClassRoster\\ClassRoster\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alec.engebretson\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

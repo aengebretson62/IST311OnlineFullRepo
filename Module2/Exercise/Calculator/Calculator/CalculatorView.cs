@@ -38,7 +38,7 @@ namespace Calculator
             Console.WriteLine("Oh no! An exception occurred trying to do the math.\n - Details: " + message);
         }
 
-        public double getDoubleFromUser()  // static method to get a number from the user since we do it a couple of times
+        public double getDoubleFromUser()  // method to get a number from the user since we do it a couple of times
         {
             // Ask the user to type the number.
             Console.Write("Type a number, and then press Enter: ");
