@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alec.engebretson\\Desktop\\NeDL\\Transition Academy\\TransitionAcademyRepo\\Stage1\\Sprint11\\ProgressiveExample\\InterfaceAndDI\\InterfaceAndDI.csproj": {}
+    "C:\\Users\\alec.engebretson\\Desktop\\IST311\\IST311OnlineFullRepo\\Module4\\Assignment\\ProgressiveExample\\InterfaceAndDI\\InterfaceAndDI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alec.engebretson\\Desktop\\NeDL\\Transition Academy\\TransitionAcademyRepo\\Stage1\\Sprint11\\ProgressiveExample\\InterfaceAndDI\\InterfaceAndDI.csproj": {
+    "C:\\Users\\alec.engebretson\\Desktop\\IST311\\IST311OnlineFullRepo\\Module4\\Assignment\\ProgressiveExample\\InterfaceAndDI\\InterfaceAndDI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alec.engebretson\\Desktop\\NeDL\\Transition Academy\\TransitionAcademyRepo\\Stage1\\Sprint11\\ProgressiveExample\\InterfaceAndDI\\InterfaceAndDI.csproj",
+        "projectUniqueName": "C:\\Users\\alec.engebretson\\Desktop\\IST311\\IST311OnlineFullRepo\\Module4\\Assignment\\ProgressiveExample\\InterfaceAndDI\\InterfaceAndDI.csproj",
         "projectName": "InterfaceAndDI",
-        "projectPath": "C:\\Users\\alec.engebretson\\Desktop\\NeDL\\Transition Academy\\TransitionAcademyRepo\\Stage1\\Sprint11\\ProgressiveExample\\InterfaceAndDI\\InterfaceAndDI.csproj",
+        "projectPath": "C:\\Users\\alec.engebretson\\Desktop\\IST311\\IST311OnlineFullRepo\\Module4\\Assignment\\ProgressiveExample\\InterfaceAndDI\\InterfaceAndDI.csproj",
         "packagesPath": "C:\\Users\\alec.engebretson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alec.engebretson\\Desktop\\NeDL\\Transition Academy\\TransitionAcademyRepo\\Stage1\\Sprint11\\ProgressiveExample\\InterfaceAndDI\\obj\\",
+        "outputPath": "C:\\Users\\alec.engebretson\\Desktop\\IST311\\IST311OnlineFullRepo\\Module4\\Assignment\\ProgressiveExample\\InterfaceAndDI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alec.engebretson\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
