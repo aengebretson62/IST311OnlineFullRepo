@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alec.engebretson\\Desktop\\CMP311\\Fall 2024\\Module 2\\Roster\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60857DD1-110F-46EE-B9B4-B4203046E6AD}|Roster.csproj|c:\\users\\alec.engebretson\\desktop\\cmp311\\fall 2024\\module 2\\roster\\rostercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60857DD1-110F-46EE-B9B4-B4203046E6AD}|Roster.csproj|solutionrelative:rostercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60857DD1-110F-46EE-B9B4-B4203046E6AD}|Roster.csproj|c:\\users\\alec.engebretson\\desktop\\cmp311\\fall 2024\\module 2\\roster\\rosterview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60857DD1-110F-46EE-B9B4-B4203046E6AD}|Roster.csproj|solutionrelative:rosterview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60857DD1-110F-46EE-B9B4-B4203046E6AD}|Roster.csproj|c:\\users\\alec.engebretson\\desktop\\cmp311\\fall 2024\\module 2\\roster\\rostermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60857DD1-110F-46EE-B9B4-B4203046E6AD}|Roster.csproj|solutionrelative:rostermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60857DD1-110F-46EE-B9B4-B4203046E6AD}|Roster.csproj|c:\\users\\alec.engebretson\\desktop\\cmp311\\fall 2024\\module 2\\roster\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60857DD1-110F-46EE-B9B4-B4203046E6AD}|Roster.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RosterController.cs",
+              "DocumentMoniker": "C:\\Users\\alec.engebretson\\Desktop\\CMP311\\Fall 2024\\Module 2\\Roster\\RosterController.cs",
+              "RelativeDocumentMoniker": "RosterController.cs",
+              "ToolTip": "C:\\Users\\alec.engebretson\\Desktop\\CMP311\\Fall 2024\\Module 2\\Roster\\RosterController.cs",
+              "RelativeToolTip": "RosterController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T13:54:22.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RosterView.cs",
+              "DocumentMoniker": "C:\\Users\\alec.engebretson\\Desktop\\CMP311\\Fall 2024\\Module 2\\Roster\\RosterView.cs",
+              "RelativeDocumentMoniker": "RosterView.cs",
+              "ToolTip": "C:\\Users\\alec.engebretson\\Desktop\\CMP311\\Fall 2024\\Module 2\\Roster\\RosterView.cs",
+              "RelativeToolTip": "RosterView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T13:54:12.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RosterModel.cs",
+              "DocumentMoniker": "C:\\Users\\alec.engebretson\\Desktop\\CMP311\\Fall 2024\\Module 2\\Roster\\RosterModel.cs",
+              "RelativeDocumentMoniker": "RosterModel.cs",
+              "ToolTip": "C:\\Users\\alec.engebretson\\Desktop\\CMP311\\Fall 2024\\Module 2\\Roster\\RosterModel.cs",
+              "RelativeToolTip": "RosterModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T13:53:58.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alec.engebretson\\Desktop\\CMP311\\Fall 2024\\Module 2\\Roster\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\alec.engebretson\\Desktop\\CMP311\\Fall 2024\\Module 2\\Roster\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T13:51:10.156Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

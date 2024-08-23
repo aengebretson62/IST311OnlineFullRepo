@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "8l0WDFbDHBz92KbfM06sqPFEvxdrF0AeS6JPOFvSvsTmMC7xZOL39xfDTYDAKwZZtXdOha9QXGZtih2cyooAAw==",
+  "dgSpecHash": "i7QSJzRWulgSZCANWVSuWBVRGEK/tzPjKBxnT8cb4HUYnMGIX9ePmx1d34Rw2heD7DrTbi+xPs5o+2OEe8txWA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alec.engebretson\\Desktop\\IST311\\IST311OnlineFullRepo\\Module1\\Assignment\\ClassRoster\\ClassRoster\\ClassRoster.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\alec.engebretson\\Desktop\\CMP311\\Module1\\Assignment\\ClassRoster\\ClassRoster\\ClassRoster.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alec.engebretson\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\alec.engebretson\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\alec.engebretson\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\alec.engebretson\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }

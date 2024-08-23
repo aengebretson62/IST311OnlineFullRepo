@@ -1,0 +1,15 @@
+C:\Users\alec.engebretson\Desktop\CMP311\Fall 2024\Module 2\Roster\bin\Debug\net8.0\Roster.exe
+C:\Users\alec.engebretson\Desktop\CMP311\Fall 2024\Module 2\Roster\bin\Debug\net8.0\Roster.deps.json
+C:\Users\alec.engebretson\Desktop\CMP311\Fall 2024\Module 2\Roster\bin\Debug\net8.0\Roster.runtimeconfig.json
+C:\Users\alec.engebretson\Desktop\CMP311\Fall 2024\Module 2\Roster\bin\Debug\net8.0\Roster.dll
+C:\Users\alec.engebretson\Desktop\CMP311\Fall 2024\Module 2\Roster\bin\Debug\net8.0\Roster.pdb
+C:\Users\alec.engebretson\Desktop\CMP311\Fall 2024\Module 2\Roster\obj\Debug\net8.0\Roster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alec.engebretson\Desktop\CMP311\Fall 2024\Module 2\Roster\obj\Debug\net8.0\Roster.AssemblyInfoInputs.cache
+C:\Users\alec.engebretson\Desktop\CMP311\Fall 2024\Module 2\Roster\obj\Debug\net8.0\Roster.AssemblyInfo.cs
+C:\Users\alec.engebretson\Desktop\CMP311\Fall 2024\Module 2\Roster\obj\Debug\net8.0\Roster.csproj.CoreCompileInputs.cache
+C:\Users\alec.engebretson\Desktop\CMP311\Fall 2024\Module 2\Roster\obj\Debug\net8.0\Roster.sourcelink.json
+C:\Users\alec.engebretson\Desktop\CMP311\Fall 2024\Module 2\Roster\obj\Debug\net8.0\Roster.dll
+C:\Users\alec.engebretson\Desktop\CMP311\Fall 2024\Module 2\Roster\obj\Debug\net8.0\refint\Roster.dll
+C:\Users\alec.engebretson\Desktop\CMP311\Fall 2024\Module 2\Roster\obj\Debug\net8.0\Roster.pdb
+C:\Users\alec.engebretson\Desktop\CMP311\Fall 2024\Module 2\Roster\obj\Debug\net8.0\Roster.genruntimeconfig.cache
+C:\Users\alec.engebretson\Desktop\CMP311\Fall 2024\Module 2\Roster\obj\Debug\net8.0\ref\Roster.dll

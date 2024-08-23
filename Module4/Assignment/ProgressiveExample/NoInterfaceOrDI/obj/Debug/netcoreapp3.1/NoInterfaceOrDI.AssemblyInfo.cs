@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NoInterfaceOrDI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1817519be9ae6b6bce4766ebae741cb2a9eaf94c")]
 [assembly: System.Reflection.AssemblyProductAttribute("NoInterfaceOrDI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NoInterfaceOrDI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
